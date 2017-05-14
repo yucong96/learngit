@@ -136,3 +136,9 @@
 *之后提交更改*
 
 **git push origin master**
+
+
+
+## 克隆
+
+**git clone origin git@github.com:yucong96/learngit.git**
