@@ -147,3 +147,9 @@
 ## 克隆
 
 **git clone origin git@github.com:yucong96/learngit.git**
+
+
+
+## 获取
+
+**git pull**
